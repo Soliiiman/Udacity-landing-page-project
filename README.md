@@ -17,7 +17,7 @@ in this project we converted the static web project to a dynamic project
 
 ## How to use the project:
 
-first you open your browser
-second you click `ctrl+O`
-third you navigate to your index.html
-forth you click on it
+-first you open your browser
+-second you click `ctrl+O`
+-third you navigate to your index.html
+-forth you click on it
